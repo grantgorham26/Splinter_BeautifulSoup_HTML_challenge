@@ -19,4 +19,4 @@ To start part 2 I again imported the python libraries I needed to complete this 
 # Fig. 2
 
 ![Screenshot 2024-04-22 at 7 09 49 PM](https://github.com/grantgorham26/Splinter_BeautifulSoup_HTML_challenge/assets/154031840/2f78dde0-850a-4d67-9920-2d614fc9bfa6)
-#Fig. 3 
+# Fig. 3 
